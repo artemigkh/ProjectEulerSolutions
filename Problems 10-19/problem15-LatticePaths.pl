@@ -6,7 +6,7 @@ use bignum;
 # This is a simple combinatorics problem that can be reduced to 
 # "How many ways are there of choosing 20 down movements among 40
 # right and down movements". Therefore we have to solve the equation
-# 40 choose 20, which is done below is a simple implenentation of  
+# 40 choose 20, which is done below with a simple implenentation of  
 # the choose formula.
 
 
