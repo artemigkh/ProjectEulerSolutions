@@ -1,4 +1,5 @@
 #!/usr/bin/perl
+#http://projecteuler.net/problem=12
 use bignum;
 open(INPUTFILE, '<', "euler13input.txt");
 my $sum = 0;
