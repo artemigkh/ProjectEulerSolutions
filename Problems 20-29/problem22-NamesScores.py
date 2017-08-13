@@ -1,4 +1,4 @@
-#https://projecteuler.net/problem=21
+#https://projecteuler.net/problem=22
 #nothing too special here. Just read in the files, split into an array, 
 #sort, apply scoring.
 
